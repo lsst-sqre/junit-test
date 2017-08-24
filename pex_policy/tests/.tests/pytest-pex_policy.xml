@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="63" time="1.361"><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="391" name="testChildDef" time="0.00431394577026"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="531" name="testMergeDefaults" time="0.00961399078369"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="606" name="testSampleCode" time="0.00289916992188"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="70" name="testDictionaryLoad" time="0.00136208534241"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="626" name="testEmptySubdict" time="0.00249028205872"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="329" name="testNested" time="0.00619554519653"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="77" name="testBadDictionary" time="0.00553202629089"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="427" name="testDefaults" time="0.00389981269836"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="144" name="testTypeValidation" time="0.00159096717834"></testcase><testcase classname="tests.Dictionary_1.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0246787071228"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="245" name="testValues" time="0.00277519226074"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="451" name="testSetAdd" time="0.00256085395813"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="476" name="testSelfValidation" time="0.00347805023193"></testcase><testcase classname="tests.Dictionary_1.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0277280807495"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="135" name="testSimpleValidate" time="0.000913143157959"></testcase><testcase classname="tests.Dictionary_1.DictionaryTestCase" file="tests/Dictionary_1.py" line="185" name="testWrongType" time="0.00189805030823"></testcase><testcase classname="tests.Policy_1.PolicyTestCase" file="tests/Policy_1.py" line="124" name="testEmptyPolicy" time="0.000818967819214"></testcase><testcase classname="tests.Policy_1.PolicyTestCase" file="tests/Policy_1.py" line="38" name="testPolicySetget" time="0.00147938728333"></testcase><testcase classname="tests.Policy_1.PolicyTestCase" file="tests/Policy_1.py" line="135" name="testSetNothing" time="0.000676870346069"></testcase><testcase classname="tests.Policy_1.PolicyTestCase" file="tests/Policy_1.py" line="117" name="testSimpleLoad" time="0.00100016593933"></testcase><testcase classname="tests.UrnPolicyFile_1.UrnPolicyFileTestCase" file="tests/UrnPolicyFile_1.py" line="87" name="testIndirect" time="0.00151872634888"></testcase><testcase classname="tests.UrnPolicyFile_1.UrnPolicyFileTestCase" file="tests/UrnPolicyFile_1.py" line="99" name="testLoading" time="0.00406241416931"></testcase><testcase classname="tests.Policy_1.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0312361717224"></testcase><testcase classname="tests.UrnPolicyFile_1.UrnPolicyFileTestCase" file="tests/UrnPolicyFile_1.py" line="71" name="testReference" time="0.00172114372253"></testcase><testcase classname="tests.UrnPolicyFile_1.UrnPolicyFileTestCase" file="tests/UrnPolicyFile_1.py" line="132" name="testRepos" time="0.00153708457947"></testcase><testcase classname="tests.UrnPolicyFile_1.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0348451137543"></testcase><testcase classname="tests.UrnPolicyFile_1.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0357961654663"></testcase><testcase classname="tests.testBigBool.BigBoolTestCase" file="tests/testBigBool.py" line="48" name="testBigBoolArray" time="0.00469183921814"></testcase><testcase classname="tests.testBigBool.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0352258682251"></testcase><testcase classname="tests.testBigBool.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0327458381653"></testcase><testcase classname="tests.Policy_1.PolicyTestCase" file="tests/Policy_1.py" line="127" name="testPolicyCopy" time="0.00179886817932"></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_PAFBadSyntax" time="0.0231728553772"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/PAFBadSyntax&apos; with no arguments...
+
+</system-out></testcase><testcase classname="tests.testDm8654.MemoryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0373191833496"></testcase><testcase classname="tests.Policy_1.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0260901451111"></testcase><testcase classname="tests.UrnPolicyFile_1.UrnPolicyFileTestCase" file="tests/UrnPolicyFile_1.py" line="123" name="testTypos" time="0.00193929672241"></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_Policy_2" time="0.014105796814"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/Policy_2&apos; with no arguments...
+Contents of PAF file:
+Policy:
+  polish: &quot;fancy&quot;
+  receiver: {
+      logVerbosity: &quot;debug&quot;
+  }
+  transmitter: {
+      serializationFormat: &quot;deluxe&quot;
+      logVerbosity: &quot;debug&quot;
+  }
+  offsets: 1, 14, 39, 93, 21, 3, 99, 313
+  threshold: 4.5
+  standalone: 1
+
+
+</system-out></testcase><testcase classname="tests.testDm8654.Dm8654TestSuite" file="tests/testDm8654.py" line="69" name="testNamesExpected" time="0.00146222114563"></testcase><testcase classname="tests.testDm8654.MemoryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0210990905762"></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_PAFtypes" time="0.0106239318848"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/PAFtypes&apos; with no arguments...
+
+</system-out></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="199" name="testSanity" time="0.000379800796509"></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_DefaultPolicyFile_1" time="0.0117373466492"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/DefaultPolicyFile_1&apos; with no arguments...
+Policy installation directory: &quot;/tmp/build/pex_policy&quot;
+Detected missing product
+
+</system-out></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_Policy_4" time="0.0134899616241"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/Policy_4&apos; with no arguments...
+Policy:
+  definitions: {
+      polish: {
+          default: &quot;fancy&quot;
+          type: &quot;string&quot;
+      }
+      threshold: {
+          default: 0
+          type: &quot;double&quot;
+      }
+      offsets: {
+          default: 0
+          type: &quot;int&quot;
+      }
+      transmitter: {
+          maxOccurs: 1
+          minOccurs: 0
+          dictionaryFile: &quot;transmitter_dict.paf&quot;
+          description: &quot;parameters for configuring the transmitter&quot;
+          type: &quot;Policy&quot;
+      }
+      reciever: {
+          maxOccurs: 1
+          minOccurs: 0
+          dictionaryFile: &quot;receiver_dict.paf&quot;
+          description: &quot;parameters for configuring the receiver&quot;
+          type: &quot;Policy&quot;
+      }
+      standalone: {
+          allowed: {
+              description: &quot;do not require event services to be running&quot;
+              value: 0
+          }, {
+              description: &quot;The EventTransmitter object if constructed without the required event services running&quot;
+              value: 1
+          }
+          maxOccurs: 1
+          minOccurs: 0
+          default: 0
+          description: &quot;A boolean switch that, if true, will allow events to be sent to the transmitter interface without the underlying event services running.  These events will be ignored and remain undelivered.&quot;
+          type: &quot;int&quot;
+      }
+  }
+  target: &quot;EventTransmitter&quot;
+
+standalone:
+  allowed: {
+      description: &quot;do not require event services to be running&quot;
+      value: 0
+  }, {
+      description: &quot;The EventTransmitter object if constructed without the required event services running&quot;
+      value: 1
+  }
+  maxOccurs: 1
+  minOccurs: 0
+  default: 0
+  description: &quot;A boolean switch that, if true, will allow events to be sent to the transmitter interface without the underlying event services running.  These events will be ignored and remain undelivered.&quot;
+  type: &quot;int&quot;
+
+Policy:
+  polish: &quot;fancy&quot;
+  threshold: 0
+  offsets: 0
+  standalone: 0
+
+Policy:
+  standalone: 0
+  offsets: 0
+  threshold: 0
+  polish: &quot;fancy&quot;
+
+
+</system-out></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_Policy_1" time="0.010321855545"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/Policy_1&apos; with no arguments...
+foo confirmed not to exist: Policy parameter name not found: foo
+doall confirmed not an Int: Parameter &quot;doall&quot; has wrong type; expecting int.
+doall: true
+doall: duh
+doall: never
+doall (2): duh never
+Dictionary.definition.standalone.minOccurs: 1
+Dictionary.definition.standalone.type: int
+Dictionary.definition.standalone.required: 0
+Dictionary.definition.standalone.score: 3.4
+policy now has 13 names (3 policies, 9 parameters):
+   Dictionary: Policy
+   Dictionary.definition: Policy
+   Dictionary.definition.standalone: Policy
+   Dictionary.definition.standalone.score: double
+   Dictionary.definition.standalone.type: string
+   Dictionary.definition.standalone.required: bool
+   Dictionary.definition.standalone.minOccurs: int
+   test: PolicyFile
+   pfalse: bool
+   ptrue: bool
+   pdbl: double
+   pint: int
+   doall: string
+Types:
+	doall: Ss
+	minOccurs: i
+	score: d
+	required: b
+	standalone: St10shared_ptrIN4lsst3daf4base11PropertySetEE
+	test: St10shared_ptrIN4lsst3daf4base11PersistableEE
+shallow copy score: 1.355
+deep copy score: 3.4
+
+</system-out></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_Policy_3" time="0.0100741386414"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/Policy_3&apos; with no arguments...
+Contents of PAF file, /tmp/build/pex_policy/examples/EventTransmitter_policy.paf
+Policy:
+  polish: &quot;fancy&quot;
+  receiver: {
+      logVerbosity: &quot;debug&quot;
+  }
+  transmitter: {
+      serializationFormat: &quot;deluxe&quot;
+      logVerbosity: &quot;debug&quot;
+  }
+  offsets: 1, 14, 39, 93, 21, 3, 99, 313
+  threshold: 4.5
+  standalone: 1
+
+Contents of PAF file, /tmp/build/pex_policy/examples/pipeline_policy.paf
+Policy:
+  stagePolicies: {
+      polish: &quot;fancy&quot;
+      receiver: {
+          logVerbosity: &quot;debug&quot;
+      }
+      transmitter: {
+          serializationFormat: &quot;deluxe&quot;
+          logVerbosity: &quot;debug&quot;
+      }
+      offsets: 1, 14, 39, 93, 21, 3, 99, 313
+      threshold: 4.5
+      standalone: 1
+  }, {
+  }, {
+  }
+  eventTopics: &quot;None None None&quot;
+  appStages: &quot;lsst.pcons.pex.harness.IOStage.InputStage&quot;, &quot;lsst.detection.pipeline.DetectionStage&quot;, &quot;lsst.pcons.pex.harness.IOStage.OutputStage&quot;
+
+
+</system-out></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="76" name="testGetBoolArray" time="0.00150322914124"></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="64" name="testGetIntArray" time="0.00339913368225"></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_PolicyString_1" time="0.0108671188354"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/PolicyString_1&apos; with no arguments...
+
+</system-out></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="49" name="testGet" time="0.00161409378052"></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="116" name="testGetStringArray" time="0.000683069229126"></testcase><testcase classname="tests.testGet.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0163700580597"></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="99" name="testGetDoublArray" time="0.00116014480591"></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="140" name="testGetFileArray" time="0.00130295753479"></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="155" name="testGetPolicyArray" time="0.00134921073914"></testcase><testcase classname="tests.testGet.GetTestCase" file="tests/testGet.py" line="129" name="testGetEmptyString" time="0.00125813484192"></testcase><testcase classname="tests.testExecutables.UtilsBinaryTester" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="270" name="test_exe__tmp_build_pex_policy_tests_testDefaults" time="0.0105159282684"><system-out>Running executable &apos;/tmp/build/pex_policy/tests/testDefaults&apos; with no arguments...
+
+</system-out></testcase><testcase classname="tests.testGet.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0265130996704"></testcase><testcase classname="tests.testPolicyString.PolicyStringTestCase" file="tests/testPolicyString.py" line="45" name="testRead" time="0.001060962677"></testcase><testcase classname="tests.testStringDest.PolicyOutStringTestCase" file="tests/testStringDest.py" line="44" name="testDest" time="0.000994920730591"></testcase><testcase classname="tests.testPolicyString.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0242040157318"></testcase><testcase classname="tests.testPolicyString.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0268709659576"></testcase><testcase classname="tests.testStringDest.PolicyOutStringTestCase" file="tests/testStringDest.py" line="48" name="testWrite" time="0.00122809410095"></testcase><testcase classname="tests.testStringDest.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="142" name="testLeaks" time="0.0269486904144"></testcase><testcase classname="tests.testStringDest.TestMemory" file="../../../opt/lsst/software/stack/Linux64/utils/13.0-8-gb7ca535+e978158b25/python/lsst/utils/tests.py" line="162" name="testFileDescriptorLeaks" time="0.0213601589203"></testcase></testsuite>
